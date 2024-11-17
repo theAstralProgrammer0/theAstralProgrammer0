@@ -1,4 +1,4 @@
-# [![TypingSVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&width=1080&lines=Hello,+World!+theAstralProgrammer0+Here;You+Are+Welcome+To+My+Corner+Of+The+Web;Fueled+By+A+Passion+For+Problem-Solving;A+Lifelong+Learner!;+Learning+By+Doing)](https://git.io/typing-svg)
+# [![TypingSVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=34&duration=4000&pause=1000&width=1080&lines=Hello,+World!+theAstralProgrammer0+Here;You+Are+Welcome+To+My+Corner+Of+The+Web;Fueled+By+A+Passion+For+Problem-Solving;A+Lifelong+Learner!;+Learning+By+Doing)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <h1 align="center" border="none">
@@ -21,7 +21,7 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🌟 What I’m Up To
-- 👨‍💻 Currently refining my DSA && DevOps. 
+- 👨‍💻 Currently refining my DSA && DevOps skills.
 - 🔭 Exploring new technologies.
 - 👯 Open to collaborating on open-source projects and software engineering initiatives.
 - 🌱 Constantly learning and growing as a developer.
@@ -60,7 +60,7 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
 
   <!-- Gif -->
   <a>
-    <img src="https://github.com/GalexY727/GalexY727/blob/main/media/GalexYBanner.gif" alt="GalexY" /></a>
+    <img src="https://github.com/theAstralProgrammer0/theAstralProgrammer0/blob/main/media/space.mp4" alt="space video" /></a>
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
