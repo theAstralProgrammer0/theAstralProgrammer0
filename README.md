@@ -1,4 +1,4 @@
-# [![TypingSVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=34&duration=2000&pause=800&width=1080&lines=Hello,+World!;I+Am+theAstralProgrammer0;You+Are+Welcome+To+My+World;I'm+Skilled+At...;Frontend;Backend;DevOps;M.E.R.N+Stack;L.N.M.P+Stack;Mobile+App+Development;Web+App+Development;+dApp+Development,+Fueled+By+A+Passion+For+Problem-Solving;A+Lifelong+Learner!;+Learning+By+Doing)](https://git.io/typing-svg)
+# [![TypingSVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=34&duration=2000&pause=800&width=1080&lines=Hello,+World!;I+Am+theAstralProgrammer0;You+Are+Welcome+To+My+World;My+Soft+Skills+Include:+Leadership;Problem+Solving;Communicating+For+Impact;Managing+Complex+Tasks+Frontend;Backend;DevOps;M.E.R.N+Stack;L.N.M.P+Stack;Mobile+App+Development;Web+App+Development;Problem+Solving;+dApp+Development,+Fueled+By+A+Passion+For+Problem-Solving;A+Lifelong+Learner!;+Learning+By+Doing)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <h1 align="center" border="none">
