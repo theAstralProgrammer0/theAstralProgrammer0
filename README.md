@@ -1,7 +1,7 @@
 # [![TypingSVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=24&duration=4000&pause=1000&width=1080&lines=Hello,+World!+theAstralProgrammer0+Here;You+Are+Welcome+To+My+Corner+Of+The+Web;Fueled+By+A+Passion+For+Problem-Solving;A+Lifelong+Learner!;+Learning+By+Doing)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<h1 align="center" outline="none">
+<h1 align="center" border: "none">
 Hi, I'm theAstralProgrammer0. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
