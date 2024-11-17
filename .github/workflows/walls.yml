@@ -1,0 +1,19 @@
+name: Update wallpaper
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 8 * * *"
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: siddharth2016/update-readme-image@main
+        with:
+          WIDTH: "100%"
+          HEIGHT: "100%"
+          ALIGN: center # duhhh
+          IMG_ALT: Daily Wallpaper
+          IMG_PATH: images
+          IMG_REPOSITORY: DenverCoder1/minimalistic-wallpaper-collection
+
