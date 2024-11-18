@@ -22,7 +22,7 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
 
 ### 🌟 What I’m Up To
 - 👨‍💻 Currently refining my DSA && DevOps skills.
-- 🔭 Exploring new technologies.
+- 🔭 Exploring Solidity, GoLang, and other new technologies.
 - 👯 Open to collaborating on open-source projects and software engineering initiatives.
 - 🌱 Constantly learning and growing as a developer.
 
