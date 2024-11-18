@@ -14,7 +14,7 @@ I learn best by diving in headfirst and experimenting with real projects. 🚀
 
 
 ![](https://komarev.com/ghpvc/?username=theAstralProgrammer0&style=for-the-badge&color=blue&labelColor=000000)<a href="https://www.github.com/theAstralProgrammer0" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/theAstralProgrammer0?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://www.twitter.com/TyNaira4L" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/theAstralProgrammer0?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://www.x.com/TyNaira4L" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-badge&color=0C7DBE&labelColor=000000"
 /></a>[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bit.ly/TemitayoDaisi-Oso/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2349110379163)
