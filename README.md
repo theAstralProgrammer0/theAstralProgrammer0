@@ -58,7 +58,7 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
 
 ![---](https://github.com/GalexY727/GalexY727/blob/main/media/DripBanner.png)
 
-![Space Video](https://www.pexels.com/video/outer-space-856309/)
+![Space Video](https://videos.pexels.com/video-files/856309/856309-hd_1920_1080_30fps.mp4)
 
 <details open>
   <summary><h2>🛠 Skills and Tools</h2></summary>
