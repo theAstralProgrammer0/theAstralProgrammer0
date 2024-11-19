@@ -1,4 +1,5 @@
-# [![TypingSVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=34&duration=2000&pause=800&width=1080&lines=Hello,+World!;I'm++theAstralProgrammer0;BSc.+Electrical+Electronics+Engineering;Welcome+to+My+World;I+Love+Operating+Systems+...;Music;Philosophy;Psychology;and+Space;I+Have+Mastered+The+Following+Languages...;C;Assembly;Bash+Scripting;HTML;CSS;JavaScript;Python;Ruby;and+MySQL;Libraries+And+Frameworks+I've+Explored;Bootstrap;React.js;Next.js;Express.js;Django;Flask;MongoDB;Ruby+on+Rails;FastAPI;Node.js;Redis;Docker;Kubernetes;Jenkins+X;Puppet;Datadog;Prometheus;SQL+Alchemy;Mongoose+ORM;Firebase;MongoDB;I+Use+These+Tools+For+...;Frontend+Engineering;Backend+Engineering;DevOps+Engineering;Web+Stack+Debugging;Web+App+Optimization;Database+Administration;Network+Administration;Systems+Programming;and+Problem+Solving+with+DSA;Some+Of+My+Soft+Skills+Are+...;Leading+Self;Leading+Others;Problem+Solving;Communication+For+Impact;Managing+Complex+Tasks;Critical+Thinking;and+Quantitative+Reasoning;...+to+name+a+few;My+Drive+Comes+From+My+Passion+For+Problem+Solving;I'm+A+Lifelong+Learner;and+I+Learn+By+Doing;Thank+YOU+for+your+Time+and+Attention)](https://git.io/typing-svg)
+#
+[![TypingSVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=34&duration=2000&pause=800&width=1080&lines=Hello,+World!;I'm++theAstralProgrammer0;BSc.+Electrical+Electronics+Engineering;Welcome+to+My+World;I+Love+Operating+Systems+...;Music;Philosophy;Psychology;and+Space;I+Have+Mastered+The+Following+Languages...;C;Assembly;Bash+Scripting;HTML;CSS;JavaScript;Python;Ruby;and+MySQL;Libraries+And+Frameworks+I've+Explored;Bootstrap;React.js;Next.js;Express.js;Django;Flask;MongoDB;Ruby+on+Rails;FastAPI;Node.js;Redis;Docker;Kubernetes;Jenkins+X;Puppet;Datadog;Prometheus;SQL+Alchemy;Mongoose+ORM;Firebase;MongoDB;I+Use+These+Tools+For+...;Frontend+Engineering;Backend+Engineering;DevOps+Engineering;Web+Stack+Debugging;Web+App+Optimization;Database+Administration;Network+Administration;Systems+Programming;and+Problem+Solving+with+DSA;Some+Of+My+Soft+Skills+Are+...;Leading+Self;Leading+Others;Problem+Solving;Communication+For+Impact;Managing+Complex+Tasks;Critical+Thinking;and+Quantitative+Reasoning;...+to+name+a+few;My+Drive+Comes+From+My+Passion+For+Problem+Solving;I'm+A+Lifelong+Learner;and+I+Learn+By+Doing;Thank+YOU+for+your+Time+and+Attention)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <h1 align="center" border="none">
@@ -96,14 +97,6 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
 <p align="center">
 
   <!-- Spotify -->
-   <a href="https://open.spotify.com/user/theAstralProgrammer0#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
-     <img src="https://galexy727.vercel.app/api/spotify?background_color=1a1b27&border_color=DD2BC7"
-          alt="I love Spotify!"/>
-   </a>
-   <a href="https://open.spotify.com/user/theAstralProgrammer0#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
-     <img src="https://galexy727.vercel.app/api/spotify?background_color=C7CBFF&border_color=DD2BC7"
-          alt="I love Spotify!"/>
-   </a>
 
   <br>
 
