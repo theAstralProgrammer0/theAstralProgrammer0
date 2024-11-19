@@ -58,7 +58,7 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
 
 ![---](https://github.com/GalexY727/GalexY727/blob/main/media/DripBanner.png)
 
-![Space Video](https://www.istockphoto.com/video/spinning-planet-earth-in-space-gm1221014229-357761394?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_video_sponsored&utm_content=https%3A%2F%2Fpixabay.com%2Fvideos%2Fsearch%2Fspace%2F&utm_term=space)
+![Space Video](https://www.pexels.com/video/outer-space-856309/)
 
 <details open>
   <summary><h2>🛠 Skills and Tools</h2></summary>
