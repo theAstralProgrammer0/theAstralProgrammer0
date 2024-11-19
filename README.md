@@ -91,10 +91,9 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
 
 <details open>
 <summary><h2>🔥 Stats</h2></summary>
-<p align="center">
-
-  <!-- Spotify -->
-
+  <p align="center">
+    <!-- Spotify -->
+  </p>
   <br>
 
   <!-- Github Stats -->
