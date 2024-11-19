@@ -58,10 +58,7 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
 
 ![---](https://github.com/GalexY727/GalexY727/blob/main/media/DripBanner.png)
 
-<video width="640" height="360" controls>
-  <source src="https://videos.pexels.com/video-files/856987/856987-sd_640_360_24fps.mp4" type="video/mp4" alt="Space">
-  Your browser does not support the video tag.
-</video>
+![Space](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F2Y2Q1ZTNrMWtkdGpqZTlqejE5OHg5MWxwcWpldzM2cTI2OXdlZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btZ3T6y3JTmjg4w/200.webp)
 
 <details open>
   <summary><h2>🛠 Skills and Tools</h2></summary>
