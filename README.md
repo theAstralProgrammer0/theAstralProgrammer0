@@ -134,10 +134,6 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
     <img src="https://github-profile-trophy.vercel.app/?username=theAstralProgrammer0&theme=tokyonight&column=-1&title=Commits,Repositories,Issues,PullRequest,Followers,Stars&no-frame=true&margin-w=5"
          alt="GitHub achievement showcase was once here..." />
   </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only">
-    <img src="https://github-profile-trophy.vercel.app/?username=theAstralProgrammer0&theme=flat&column=-1&title=Commits,Repositories,Issues,PullRequest,Followers,Stars&no-frame=true&margin-w=5"
-         alt="GitHub achievement showcase was once here..." />
-  </a>
 
   <!-- Commit Snake! -->
 
