@@ -59,7 +59,7 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
 ![---](https://github.com/GalexY727/GalexY727/blob/main/media/DripBanner.png)
 
 <video width="640" height="360" controls>
-  <source src="video-url.mp4" type="video/mp4">
+  <source src="https://videos.pexels.com/video-files/856987/856987-sd_640_360_24fps.mp4" type="video/mp4" alt="Space">
   Your browser does not support the video tag.
 </video>
 
