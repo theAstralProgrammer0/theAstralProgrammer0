@@ -49,11 +49,11 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theAstralProgrammer0&show_icons=true&theme=radical)
 
-<h2 align="left">Support:</h2>
+<!--<h2 align="left">Support:</h2>
 <p><a href="https://www.buymeacoffee.com/theAstralProgrammer0"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-dark.png" height="50" width="210" alt="iamnaeto" /></a></p><br><br><br><br><br>
 
 ![image](https://user-images.githubusercontent.com/105258746/188775779-6bbc07c8-df8d-4a80-839b-674ea51c5adc.png)
-
+-->
 
 
 ![---](https://github.com/GalexY727/GalexY727/blob/main/media/DripBanner.png)
