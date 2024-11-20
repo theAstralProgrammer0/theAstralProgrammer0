@@ -76,6 +76,7 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
     <code><img width="4%" src="https://www.svgrepo.com/show/353724/express.svg"></code>
     <code><img width="4%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMbuTCnPv7wAsOzmJ8x24tK7Wgbz6SfccUKQ&s"></code>
     <code><img width="4%" src="https://i.imgur.com/tjPOPhB.png"></code>
+    <code><img width="4%" src="https://www.svgrepo.com/show/377840/wireshark.svg"></code>
     <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg"></code>
     <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/396px-Ruby_logo.svg.png?20101129171534"></code>
     <code><img width="4%" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png"></code>
