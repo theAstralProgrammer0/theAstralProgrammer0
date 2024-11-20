@@ -76,7 +76,6 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
     <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"></code>
     <code><img width="4%" src="https://logowik.com/content/uploads/images/express-js1720895488.logowik.com.webp"></code>
     <code><img width="4%" src="https://banner2.cleanpng.com/20180907/ska/kisspng-redis-memcached-database-caching-key-value-databas-redis-logo-svg-vector-amp-png-transparent-vect-1713942841776.webp"></code>
-    <code><img width="4%" src="https://i.imgur.com/tjPOPhB.png"></code>
     <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png"></code>
     <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg"></code>
     <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/396px-Ruby_logo.svg.png?20101129171534"></code>
@@ -84,7 +83,6 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
     <code><img width="4%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZO8cM5WJQ4ZIu2Qg0y7gs-IkTv46g_xAucg&s"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
     <code><img width="4%" src="https://www.bluej.org/objects-first/images/logos/bluej-128-embossed.png"></code>
-    <code><img width="4%" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png"></code>
     <code><img width="4%" src="https://cdn.iconscout.com/icon/free/png-256/discord-4408614-3649972.png"></code>
     <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png"></code>
     <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Neos_VR_Logo.png"></code>
@@ -96,10 +94,10 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
     <code><img width="4%" src="https://curl.se/logo/curl-symbol.png"></code>
     <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1024px-Logo-ubuntu_cof-orange-hex.svg.png"></code>
     <code><img width="4%" src="https://www.svgrepo.com/show/373924/nginx.svg"></code>
-    <code><img width="4%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBKoiYo7Jz19MCXZGbXbsjqLoKKIGEyiUxsw&s"></code>
-    <code><img width="4%" src="https://www.v0.app/api/image/devicon-plain-sqlalchemy-icon.png?id=eyJmbiI6ImdldEljb25IZXJvSW1hZ2UiLCJhcmdzIjp7Imljb25TZXRTbHVnIjoiZGV2aWNvbi1wbGFpbiIsImljb25TbHVnIjoic3FsYWxjaGVteSJ9fQ"></code>
-    <code><img width="4%" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/flask-logo-icon.png"></code>
-    <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Haproxy-logo.png"></code>
+    <code><img width="4%" height="80%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBKoiYo7Jz19MCXZGbXbsjqLoKKIGEyiUxsw&s"></code>
+    <code><img width="4%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFDJLaUHfkk5JOqF2RTfK4m3RgHi3kM7Txw&s"></code>
+    <code><img width="4%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuYjUrLNXZ9t4eL97fjo93C9NBCFxixJGoBA&s"></code>
+    <code><img width="4%" src="https://i.pinimg.com/originals/23/f2/34/23f2348c32c00f171322f929b5429190.png"></code>
     <code><img width="4%" src="https://www.svgrepo.com/show/354230/puppet-icon.svg"></code>
   </p>
 </details>
