@@ -63,6 +63,7 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
 <details open>
   <summary><h2>🛠 Skills and Tools</h2></summary>
   <p>
+    <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1727px-Tux.svg.png"></code>
     <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
@@ -92,15 +93,14 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
     <code><img width="4%" src="https://external-preview.redd.it/6VNc_TiTaHCIqXF-_ZvwRRRkb1bYQy3t1nHxhNWBlt4.jpg?auto=webp&s=d9dfcad27fbd963b73d1d18be6db74543548ebf0"></code>
     <code><img width="4%" src="https://www.svgrepo.com/show/349342/docker.svg"></code>
-    <code><img width="4%" src="https://www.logo.wine/a/logo/CURL/CURL-Logo.wine.svg"></code>
-    <code><img width="4%" src=""></code>
-    <code><img width="4%" src=""></code>
-    <code><img width="4%" src=""></code>
-    <code><img width="4%" src=""></code>
-    <code><img width="4%" src=""></code>
-    <code><img width="4%" src=""></code>
-    <code><img width="4%" src=""></code>
-    <code><img width="4%" src=""></code>
+    <code><img width="4%" src="https://curl.se/logo/curl-symbol.png"></code>
+    <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1024px-Logo-ubuntu_cof-orange-hex.svg.png"></code>
+    <code><img width="4%" src="https://www.svgrepo.com/show/373924/nginx.svg"></code>
+    <code><img width="4%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBKoiYo7Jz19MCXZGbXbsjqLoKKIGEyiUxsw&s"></code>
+    <code><img width="4%" src="https://www.v0.app/api/image/devicon-plain-sqlalchemy-icon.png?id=eyJmbiI6ImdldEljb25IZXJvSW1hZ2UiLCJhcmdzIjp7Imljb25TZXRTbHVnIjoiZGV2aWNvbi1wbGFpbiIsImljb25TbHVnIjoic3FsYWxjaGVteSJ9fQ"></code>
+    <code><img width="4%" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/flask-logo-icon.png"></code>
+    <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Haproxy-logo.png"></code>
+    <code><img width="4%" src="https://www.svgrepo.com/show/354230/puppet-icon.svg"></code>
   </p>
 </details>
 
