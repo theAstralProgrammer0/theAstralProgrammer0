@@ -63,7 +63,7 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
 <details open>
   <summary><h2>🛠 Skills and Tools</h2></summary>
   <p>
-    <code><img width="4%" src="https://www.svgrepo.com/show/535245/c.svg"></code>
+    <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
     <code><img width="4%" src="https://www.svgrepo.com/show/452185/css-3.svg"></code>
