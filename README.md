@@ -94,7 +94,7 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
     <code><img width="4%" src="https://curl.se/logo/curl-symbol.png"></code>
     <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1024px-Logo-ubuntu_cof-orange-hex.svg.png"></code>
     <code><img width="4%" src="https://www.svgrepo.com/show/373924/nginx.svg"></code>
-    <code><img width="4%" height="80%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBKoiYo7Jz19MCXZGbXbsjqLoKKIGEyiUxsw&s"></code>
+    <code><img width="4%" height="8%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBKoiYo7Jz19MCXZGbXbsjqLoKKIGEyiUxsw&s"></code>
     <code><img width="4%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFDJLaUHfkk5JOqF2RTfK4m3RgHi3kM7Txw&s"></code>
     <code><img width="4%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuYjUrLNXZ9t4eL97fjo93C9NBCFxixJGoBA&s"></code>
     <code><img width="4%" src="https://i.pinimg.com/originals/23/f2/34/23f2348c32c00f171322f929b5429190.png"></code>
