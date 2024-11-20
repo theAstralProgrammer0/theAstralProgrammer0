@@ -73,8 +73,8 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
     <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"></code>
-    <code><img width="4%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJcB4K9EY3wAmEOtTjoJlVZ6xCaEOnc05saQ&s"></code>
-    <code><img width="4%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMbuTCnPv7wAsOzmJ8x24tK7Wgbz6SfccUKQ&s"></code>
+    <code><img width="4%" src="https://logowik.com/content/uploads/images/express-js1720895488.logowik.com.webp"></code>
+    <code><img width="4%" src="https://banner2.cleanpng.com/20180907/ska/kisspng-redis-memcached-database-caching-key-value-databas-redis-logo-svg-vector-amp-png-transparent-vect-1713942841776.webp"></code>
     <code><img width="4%" src="https://i.imgur.com/tjPOPhB.png"></code>
     <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png"></code>
     <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg"></code>
@@ -90,7 +90,7 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-    <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
+    <code><img width="4%" src="https://external-preview.redd.it/6VNc_TiTaHCIqXF-_ZvwRRRkb1bYQy3t1nHxhNWBlt4.jpg?auto=webp&s=d9dfcad27fbd963b73d1d18be6db74543548ebf0"></code>
     <code><img width="4%" src="https://www.svgrepo.com/show/349342/docker.svg"></code>
     <code><img width="4%" src="https://www.logo.wine/a/logo/CURL/CURL-Logo.wine.svg"></code>
     <code><img width="4%" src=""></code>
