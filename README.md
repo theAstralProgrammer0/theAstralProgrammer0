@@ -22,7 +22,7 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🌟 What I’m Up To
-- 👨‍💻 Currently refining my DSA && DevOps skills.
+- 👨‍💻 Currently refining DevOps and Web dApp dev skills.
 - 🔭 Exploring Solidity, GoLang, and other new technologies.
 - 👯 Open to collaborating on open-source projects and software engineering initiatives.
 - 🌱 Constantly learning and growing as a developer.
@@ -98,6 +98,8 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
     <code><img width="4%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuYjUrLNXZ9t4eL97fjo93C9NBCFxixJGoBA&s"></code>
     <code><img width="4%" src="https://i.pinimg.com/originals/23/f2/34/23f2348c32c00f171322f929b5429190.png"></code>
     <code><img width="4%" src="https://www.svgrepo.com/show/354230/puppet-icon.svg"></code>
+    <code><img width="4%" src="https://logowik.com/content/uploads/images/solidity-programming-language881.logowik.com.webp"></code>
+    <code><img width="4%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUTc3wwVFk4RrsQHsAafyJYQOkKwrb7WSIiQ&s"></code>
   </p>
 </details>
 
