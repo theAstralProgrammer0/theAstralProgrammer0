@@ -84,7 +84,21 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-    <code><img width="4%" src="https://seeklogo.com/images/G/github-colored-logo-FDDF6EB1F0-seeklogo.com.png"></code>
+    <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png"></code>
+    <code><img width="4%" src="https://logowik.com/content/uploads/images/nextjs2106.logowik.com.webp"></code>
+    <code><img width="4%" src=""></code>
+    <code><img width="4%" src=""></code>
+    <code><img width="4%" src=""></code>
+    <code><img width="4%" src=""></code>
+    <code><img width="4%" src=""></code>
+    <code><img width="4%" src=""></code>
+    <code><img width="4%" src=""></code>
+    <code><img width="4%" src=""></code>
+    <code><img width="4%" src=""></code>
+    <code><img width="4%" src=""></code>
+    <code><img width="4%" src=""></code>
+    <code><img width="4%" src=""></code>
+    <code><img width="4%" src=""></code>
   </p>
 </details>
 
