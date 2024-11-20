@@ -63,14 +63,18 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
 <details open>
   <summary><h2>🛠 Skills and Tools</h2></summary>
   <p>
-    <code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
+    <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"></code>
+    <code><img width="4%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMbuTCnPv7wAsOzmJ8x24tK7Wgbz6SfccUKQ&s"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
-    <code><img width="4%" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
     <code><img width="4%" src="https://i.imgur.com/tjPOPhB.png"></code>
+    <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg"></code>
+    <code><img width="4%" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"></code>
+    <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/396px-Ruby_logo.svg.png?20101129171534"></code>
     <code><img width="4%" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png"></code>
+    <code><img width="4%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZO8cM5WJQ4ZIu2Qg0y7gs-IkTv46g_xAucg&s"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
     <code><img width="4%" src="https://www.bluej.org/objects-first/images/logos/bluej-128-embossed.png"></code>
     <code><img width="4%" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png"></code>
