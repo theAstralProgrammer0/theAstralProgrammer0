@@ -121,8 +121,6 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
     <img src="https://streak-stats.demolab.com?user=theAstralProgrammer0&theme=tokyonight&mode=daily&border=DD2BC7"
          width="49%" alt="My GitHub Streak was once here..." />
   </a>
-  </a>
-
   <!-- Most Used Langs -->
 
   <br>
