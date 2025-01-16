@@ -29,7 +29,8 @@ jobs:
       - name: Fetch Currently Playing Data
         id: fetch-data
         run: |
-          track_id=$(curl -s -X GET "https://api.spotify.com/v1/me/player/currently-playing" -H "Authorization: Bearer $token" | jq -r '.item.id')
+          track_id=$(curl -s -X GET "https://api.spotify.com/v1/me/player/currently-playing" \
+            -H "Authorization: Bearer $token" | jq -r '.item.id' || true)
 
           if [ $? -ne 0 ]; then
             echo "Error: Failed to retrieve or parse currently playing data from Spotify API." >&2
