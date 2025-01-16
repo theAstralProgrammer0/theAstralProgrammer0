@@ -1,5 +1,5 @@
 #
-[![TypingSVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=34&duration=2000&pause=800&width=1080&lines=Hello,+World!;I'm++theAstralProgrammer0;BSc.+Electrical+Electronics+Engineering;Welcome+to+My+World;I+Love+Operating+Systems+...;Music;Mathematics;Physics;Philosophy;Psychology;and+Space;I+Have+Mastered+The+Following+Languages...;C;Assembly;Bash+Scripting;HTML;CSS;JavaScript;Python;Ruby;and+MySQL;Libraries+And+Frameworks+I've+Explored;Bootstrap;React.js;Next.js;Express.js;Django;Flask;MongoDB;Ruby+on+Rails;FastAPI;Node.js;Redis;Docker;Kubernetes;Jenkins+X;Puppet;Datadog;Prometheus;SQL+Alchemy;Mongoose+ORM;Firebase;MongoDB;I+Use+These+Tools+For+...;Frontend+Engineering;Backend+Engineering;DevOps+Engineering;Web+Stack+Debugging;Web+App+Optimization;Database+Administration;Network+Administration;Systems+Programming;and+Problem+Solving+with+DSA;Some+Of+My+Soft+Skills+Are+...;Leading+Self;Leading+Others;Problem+Solving;Communication+For+Impact;Managing+Complex+Tasks;Critical+Thinking;and+Quantitative+Reasoning;...+to+name+a+few;My+Drive+Comes+From+My+Passion+For+Problem+Solving;I'm+A+Lifelong+Learner;and+I+Learn+By+Doing;Thank+YOU+for+your+Time+and+Attention)](https://git.io/typing-svg)
+[![TypingSVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=34&duration=2000&pause=800&width=1080&lines=Hello,+World!;I'm++theAstralProgrammer0;BSc.+Electrical+Electronics+Engineering;Welcome+to+My+World;I+Love+Operating+Systems+...;Music;Mathematics;Physics;Philosophy;Psychology;and+Space;I+Have+Mastered+The+Following+Languages...;C;Assembly;Bash+Scripting;HTML;CSS;JavaScript;TypeScript;Python;Ruby;and+MySQL;Libraries+And+Frameworks+I've+Explored;Bootstrap;React.js;Next.js;Express.js;Django;Flask;MongoDB;Ruby+on+Rails;FastAPI;Node.js;Redis;Docker;Kubernetes;Jenkins+X;Puppet;Datadog;Prometheus;SQL+Alchemy;Mongoose+ORM;Firebase;MongoDB;I+Use+These+Tools+For+...;Frontend+Engineering;Backend+Engineering;DevOps+Engineering;Web+Stack+Debugging;Web+App+Optimization;Database+Administration;Network+Administration;Systems+Programming;and+Problem+Solving+with+DSA;Some+Of+My+Soft+Skills+Are+...;Leading+Self;Leading+Others;Problem+Solving;Communication+For+Impact;Managing+Complex+Tasks;Critical+Thinking;and+Quantitative+Reasoning;...+to+name+a+few;My+Drive+Comes+From+My+Passion+For+Problem+Solving;I'm+A+Lifelong+Learner;and+I+Learn+By+Doing;Thank+YOU+for+your+Time+and+Attention)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <h1 align="center" border="none">
@@ -8,7 +8,7 @@ Hi, I'm theAstralProgrammer0. <img src="https://raw.githubusercontent.com/Martin
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 I’m a *Software Engineering Student at ALX*, driven by curiosity and a love for code.  
-Guided by the principle that *Knowing* the ``why`` is key to *Mastering* the ``how``.
+Guided by the principle that *Knowing* the ``why`` is key to *Mastering* the ``how``.  
 I learn best by diving in headfirst and experimenting with real projects. 🚀
 
 ---
@@ -16,9 +16,8 @@ I learn best by diving in headfirst and experimenting with real projects. 🚀
 
 ![](https://komarev.com/ghpvc/?username=theAstralProgrammer0&style=for-the-badge&color=blue&labelColor=000000)<a href="https://www.github.com/theAstralProgrammer0" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/theAstralProgrammer0?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://www.x.com/TyNaira4L" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-badge&color=0C7DBE&labelColor=000000"
-/></a>[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bit.ly/TemitayoDaisi-Oso/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2349110379163)
+src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-badge&color=0C7DBE&labelColor=000000"/></a>[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bit.ly/TemitayoDaisi-Oso/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2349067096348)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🌟 What I’m Up To
@@ -122,8 +121,6 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
     <img src="https://streak-stats.demolab.com?user=theAstralProgrammer0&theme=tokyonight&mode=daily&border=DD2BC7"
          width="49%" alt="My GitHub Streak was once here..." />
   </a>
-  </a>
-
   <!-- Most Used Langs -->
 
   <br>
