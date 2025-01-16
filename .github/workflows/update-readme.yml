@@ -32,10 +32,16 @@ jobs:
           track_id=$(curl -s -X GET "https://api.spotify.com/v1/me/player/currently-playing" \
             -H "Authorization: Bearer $token" | jq -r '.item.id')
 
-          if [ "$track_id" != "null" ]; then
-            echo "track_embed=https://open.spotify.com/embed/track/$track_id" >> $GITHUB_ENV
-          else
+          if [ $? -ne 0 ]; then
+            echo "Error: Failed to retrieve or parse currently playing data from Spotify API." >&2
             echo "track_embed=null" >> $GITHUB_ENV
+          else
+            if [ "$track_id" != "null" ]; then
+              echo "track_embed=https://open.spotify.com/embed/track/$track_id" >> $GITHUB_ENV
+            else
+              echo "track_embed=null" >> $GITHUB_ENV
+            fi
+          fi
 
       # Step 4: Update README
       - name: Update README
