@@ -107,7 +107,16 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
 <summary><h2>🔥 Stats</h2></summary>
   <p align="center">
     <!-- Spotify -->
-  </p>
+    <!-- Spotify -->
+  <a href="https://open.spotify.com/user/ekalpoa9m05w5lpjj8p56ase2#gh-dark-mode-only" taret="_blank" rel="noopener noreferrer">
+    <img src="https://galexy727.vercel.app/api/spotify?background_color=1a1b27&border_color=DD2BC7"
+         alt="I love Spotify!"/>
+  </a>
+   <a href="https://open.spotify.com/user/ekalpoa9m05w5lpjj8p56ase2#gh-light-mode-only" taret="_blank" rel="noopener noreferrer">
+    <img src="https://galexy727.vercel.app/api/spotify?background_color=C7CBFF&border_color=DD2BC7"
+         alt="I love Spotify!"/>
+  </a>
+
   <br>
 
   <!-- Github Stats -->
