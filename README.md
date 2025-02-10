@@ -21,8 +21,8 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 🌟 What I’m Up To
-- 👨‍💻 Currently refining DevOps and Web dApp dev skills.
-- 🔭 Exploring Solidity, GoLang, and other new technologies.
+- 👨‍💻 Currently working as CTO of Xeventy2.0 Health Ltd.
+- 🔭 Building EMR and EHR technologies.
 - 👯 Open to collaborating on open-source projects and software engineering initiatives.
 - 🌱 Constantly learning and growing as a developer.
 
