@@ -22,9 +22,9 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
 
 ### 🌟 What I’m Up To
 - 👨‍💻 Currently working as CTO of Xeventy2.0 Health Ltd.
-- 🔭 Building EMR and EHR technologies.
-- 👯 Open to collaborating on open-source projects and software engineering initiatives.
-- 🌱 Constantly learning and growing as a developer.
+- 🔭 Building an Electronic Health Record and TeleHealth application.
+- 👯 Open to collaborating on open-source projects and progressive initiatives.
+- 🌱 Constantly building and growing as a developer.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
