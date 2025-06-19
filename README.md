@@ -9,7 +9,7 @@ Hi, I'm theAstralProgrammer0. <img src="https://raw.githubusercontent.com/Martin
 
 I’m a *Software Engineer and Full Stack Developer*, driven by curiosity and a love for code.  
 Guided by the principle that *Knowing* the ``why`` is key to *Mastering* the ``how``.  
-I learn best by diving in headfirst and experimenting with real projects. 🚀
+I learn best by diving in headfirst and experimenting with real world projects. 🚀
 
 ---
 
