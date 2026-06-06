@@ -20,7 +20,7 @@
 
 <p align="center">
   I'm a <strong>Software Engineer, AI Engineer & Full Stack Developer</strong> with <strong>7+ years</strong> of experience delivering scalable, intelligent, and user-centric digital products across AI, health-tech, fintech, blockchain, and government sectors.<br><br>
-  Currently building <strong>TheoEMR</strong> — an AI-powered Electronic Medical Records & TeleHealth platform at Xeventy2.0 Health.<br>
+  Currently building <strong>TheoEMR</strong> — an AI-powered Electronic Medical Records & TeleHealth platform.<br>
   Guided by the principle that <em>knowing the <code>"why"</code> is key to mastering the <code>"how"</code>.</em><br>
   I learn best by diving in headfirst — real projects, real problems, real solutions. 🚀
 </p>
@@ -57,14 +57,12 @@
 
 ### 🌟 What I'm Up To
 
-- 🧠 **Building TheoEMR** — an AI-powered Electronic Medical Records & TeleHealth system at [Xeventy2.0 Health](https://x2h.vercel.app) (Next.js · Django · PostgreSQL · Redis · LLM Integration).
-- 🤖 **Integrating AI** into health-tech: LLM-powered clinical notes, RAG for medical knowledge retrieval, and AI-driven patient interaction flows.
-- 🏛️ **Shipped [LASISMA](https://lasisma.com.ng)** — Lagos State Informal Space Management Authority's public-facing digital platform (React · Vite · TypeScript · Figma).
-- 🌍 **Engineered [Global Relocate](https://globalrelocate.com)** — a relocation platform with tax calculator & VPS-deployed Node.js/PostgreSQL/Prisma backend.
-- 🎓 **ALX Software Engineering** Nanodegree graduate & **NYSC Alumni** 🇳🇬.
-- ⛓️ Growing **Ticquette** — an NFT minting dApp built on Solidity, IPFS & Web3.js.
-- 🌱 Deepening expertise in **AI/ML**, **Rust**, **Go**, DeFi, and systems programming.
-- 💼 Open to contract & freelance engagements — [Let's build something.](https://bit.ly/TemitayoDaisi-Oso/)
+- 🧠 Building **[TheoEMR](https://x2h.vercel.app)** — AI-powered EMR & TeleHealth: LLM clinical notes, RAG knowledge retrieval, AI patient flows.
+- 🏛️ Shipped **[LASISMA](https://lasisma.com.ng)** — Lagos State's informal space management portal.
+- 🌍 Engineered **[Global Relocate](https://globalrelocate.com)** — relocation platform with multi-country tax calculator.
+- 🌱 Deepening: **AI/ML** · **Rust** · **Go** · DeFi · systems programming.
+- 🎓 **ALX** Nanodegree graduate · **NYSC Alumni** 🇳🇬
+- 💼 Open to engagements — [Let's build.](https://bit.ly/TemitayoDaisi-Oso/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -76,7 +74,7 @@
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| 🧠 **[TheoEMR @ Xeventy2.0](https://x2h.vercel.app)** | Next.js · Django · PostgreSQL · Redis · LLM | AI-powered Electronic Medical Records & TeleHealth platform — being built |
+| 🧠 **[TheoEMR](https://x2h.vercel.app)** | Next.js · Django · PostgreSQL · Redis · LLM | AI-powered Electronic Medical Records & TeleHealth platform |
 | 🏛️ **[LASISMA](https://lasisma.com.ng)** | React · Vite · TypeScript · Figma | Lagos State Informal Space Management Authority — public digital transformation portal |
 | 🌍 **[Global Relocate](https://globalrelocate.com)** | Node.js · PostgreSQL · Prisma | Relocation platform with tax calculator & VPS-deployed backend |
 | 🎫 **[Ticquette](https://github.com/theAstralProgrammer0/Ticquette)** | Solidity · IPFS · Express · Web3.js | NFT minting dApp with OpenSea listing & Pinata SDK |
@@ -132,7 +130,7 @@
     <img src="https://img.shields.io/badge/AI%20in%20Health--Tech-E63946?style=for-the-badge&logo=heart&logoColor=white"/>
   </p>
   <p align="center">
-    <strong>TheoEMR</strong> — integrating AI into clinical workflows: LLM-powered note generation,<br/>
+    Currently building <strong>TheoEMR</strong> — integrating AI into clinical workflows: LLM-powered note generation,<br/>
     Retrieval-Augmented Generation for medical knowledge, and AI-assisted patient interaction.
   </p>
 </details>
