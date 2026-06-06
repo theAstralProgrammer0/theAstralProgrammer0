@@ -57,6 +57,7 @@
 
 ### 🌟 What I'm Up To
 
+- 🏆 Founding **[FanForge](https://github.com/theAstralProgrammer0/fanforge)** at the [Aomi Labs](https://x.com/aomi_labs) hackathon — on-chain fan economy for music creators on [Base](https://x.com/base) × [Zora](https://x.com/zora), with [@DecentralDev\_](https://x.com/DecentralDev_).
 - 🧠 Building **[TheoEMR](https://x2h.vercel.app)** — AI-powered EMR & TeleHealth: LLM clinical notes, RAG knowledge retrieval, AI patient flows.
 - 🏛️ Shipped **[LASISMA](https://lasisma.com.ng)** — Lagos State's informal space management portal.
 - 🌍 Engineered **[Global Relocate](https://globalrelocate.com)** — relocation platform with multi-country tax calculator.
@@ -74,6 +75,7 @@
 
 | Project | Stack | Description |
 |---------|-------|-------------|
+| 🏆 **[FanForge](https://github.com/theAstralProgrammer0/fanforge)** | Rust · [Base](https://github.com/base) · [Zora](https://github.com/ourzora) · [Aomi SDK](https://github.com/aomi-labs) | On-chain fan economy for music creators — [Aomi Labs](https://x.com/aomi_labs) hackathon |
 | 🧠 **[TheoEMR](https://x2h.vercel.app)** | Next.js · Django · PostgreSQL · Redis · LLM | AI-powered Electronic Medical Records & TeleHealth platform |
 | 🏛️ **[LASISMA](https://lasisma.com.ng)** | React · Vite · TypeScript · Figma | Lagos State Informal Space Management Authority — public digital transformation portal |
 | 🌍 **[Global Relocate](https://globalrelocate.com)** | Node.js · PostgreSQL · Prisma | Relocation platform with tax calculator & VPS-deployed backend |
