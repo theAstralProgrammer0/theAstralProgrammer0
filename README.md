@@ -108,11 +108,7 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
   <p align="center">
   
   <!-- Spotify -->
-  <a href="https://open.spotify.com/user/31guvegpaf7zjw34j44eh2l2cw4i#gh-dark-mode-only" taret="_blank" rel="noopener noreferrer">
-    <img src="https://spotify-api-temitayo-daisi-osos-projects.vercel.app/api/spotify?background_color=ffffff&border_color=000000"
-         alt="I love Spotify!"/>
-  </a>
-   <a href="https://open.spotify.com/user/31guvegpaf7zjw34j44eh2l2cw4i#gh-dark-mode-only" taret="_blank" rel="noopener noreferrer">
+  <a href="https://open.spotify.com/user/31guvegpaf7zjw34j44eh2l2cw4i#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://spotify-api-temitayo-daisi-osos-projects.vercel.app/api/spotify?background_color=ffffff&border_color=000000"
          alt="I love Spotify!"/>
   </a>
@@ -133,7 +129,7 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
   <!-- Most Used Langs -->
 
   <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats" taret="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theAstralProgrammer0&layout=donut&theme=tokyonight&border_color=DD2BC7"
          width="33%" alt="Favorite Languages" />
   </a>
@@ -149,12 +145,12 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
 
   <a href="https://raw.githubusercontent.com/theAstralProgrammer0/theAstralProgrammer0/media/github-contribution-grid-snake.svg#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/theAstralProgrammer0/theAstralProgrammer0/media/github-contribution-grid-snake-dark.svg"
-       alt"Check out my commit history!" />
+       alt="Check out my commit history!" />
   </a>
 
   <a href="https://raw.githubusercontent.com/theAstralProgrammer0/theAstralProgrammer0/media/github-contribution-grid-snake.svg#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg"
-         alt"Check out my commit history!" />
+    <img src="https://raw.githubusercontent.com/theAstralProgrammer0/theAstralProgrammer0/media/github-contribution-grid-snake.svg"
+         alt="Check out my commit history!" />
   </a>
 </p>
 </details>
@@ -172,7 +168,7 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
 
 ---
 
-<!-- Space core refrence -->
+<!-- Space core reference -->
 <a href="https://theportalwiki.com/wiki/Core_voice_lines#Space_core"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&size=12&duration=1000&pause=1500&color=F7AA2C&width=600&height=50&lines=What's+your+favorite+thing+about+space%3F+Mine+is+space.;Space.+Space.+Go+to+space.;Space.;Space+going+to+space+can't+wait.;Space+Court.+For+people+in+space.+Judge+space+sun+presiding.+Bam.+Guilty.;Space...+Space+Trial.+Puttin'+the+system+on+trial.+In+space.+Space+system.+;On+trial.+Guilty.+Of+being+in+space!+Going+to+space+jail!;Dad!+I'm+in+space!;%5Blow-pitched+'space'+voice%5D+I'm+proud+of+you%2C+son.+;%5Bnormal+voice%5D+Dad%2C+are+you+space%3F+;%5Blow-pitched+'space'+voice%5D+Yes.+Now+we+are+a+family+again.;%5Bnormal+voice%5D+Space+space+wanna+go+to+space+yes+please+space.+Space+space.;Space+space+wanna+go+to+space+wanna+go+to+space+wanna+go+to+space.;Space+space+going+to+space+oh+boy;Ba!+Ba!+Ba+ba+ba!+Space!+Ba!+Ba!+Ba+ba+ba!;Oh.+Play+it+cool.+Play+it+cool.+Here+come+the+space+cops.;Help+me%2C+space+cops.+Space+cops%2C+help.;Going+to+space+going+there+can't+wait+gotta+go.+Space.+Going.;Better+buy+a+telescope.+Wanna+see+me.+Buy+a+telescope.+Gonna+be+in+space.;Yeah+yeah+yeah+okay+okay.;Space.+Space.+Gonna+go+to+space.;Yes.+Please.+Space!+Gonna+be+in+space.;Gonna+be+in+space.;Wanna+go+to+space.+Space.+Let's+go+-+let's+go+to+space.+Let's+go+to+space.;Atmosphere.+Black+holes.+Astronauts.+Nebulas.+Jupiter.+The+Big+Dipper.;Orbit.+Space+orbit.+In+my+spacesuit.;Ohhh%2C+the+Sun.+I'm+gonna+meet+the+Sun.+Oh+no!+What'll+I+say%3F+'Hi!+Hi%2C+Sun!';Look%2C+an+eclipse!+No.+Don't+look.;Come+here%2C+space.+I+have+a+secret+for+you.+No%2C+come+closer.;There's+a+star.+There's+another+one.+Star.+Star+star+star.+Star.;You+are+the+farthest+ever+in+space.+Why+me%2C+space%3F+Because+you+are+the+best.;Ohmygodohmygodohmygod!+I'm+in+space!;We+made+it+we+made+it+we+made+it.+Space!;Earth.+Wanna+go+to+earth+wanna+go+to+earth+wanna+go+to+earth.+Home+home+home.;Wanna+go+home+wanna+go+home+wanna+go+home+wanna+go+home.;Earth+earth+earth.;Don't+like+space.+Don't+like+space.;It's+too+big.+Too+big.+Wanna+go+home.+Wanna+go+to+earth.;YEEEHAAAAAW!" alt="Space Core was here!" /></a>
 
 <!-- Visits! -->
