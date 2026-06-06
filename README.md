@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=28&duration=2000&pause=800&color=DD2BC7&center=true&width=900&lines=Hello%2C+World!;I'm+Temitayo+Daisi-Oso+%E2%80%94+theAstralProgrammer0;BSc.+Electrical+%26+Electronics+Engineering;CTO+%40+Xeventy2.0+Health+Limited;7%2B+Years+Delivering+Scalable+Digital+Products;Full+Stack+%7C+Backend+%7C+Blockchain+%7C+Systems;I+Love+Linux%2C+Maths%2C+Physics+%26+Space;Languages%3A+C+%E2%80%A2+Rust+%E2%80%A2+Go+%E2%80%A2+Python+%E2%80%A2+TypeScript+%E2%80%A2+Solidity;Building+the+Future+of+Health-Tech+in+Africa;and+I+Learn+by+Doing+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=28&duration=2000&pause=800&color=DD2BC7&center=true&width=900&lines=Hello%2C+World!;I'm+Temitayo+Daisi-Oso+%E2%80%94+theAstralProgrammer0;BSc.+Electrical+%26+Electronics+Engineering;CTO+%40+Xeventy2.0+Health+Limited;7%2B+Years+Delivering+Scalable+Digital+Products;Full+Stack+%7C+AI+%7C+Blockchain+%7C+Systems;AI+Is+The+New+Internet+%E2%80%94+And+I'm+Building+On+It;Building+TheoEMR%3A+AI-Powered+Health+Records;LLM+Integration+%E2%80%A2+Prompt+Engineering+%E2%80%A2+RAG;I+Love+Linux%2C+Maths%2C+Physics+%26+Space;Languages%3A+C+%E2%80%A2+Rust+%E2%80%A2+Go+%E2%80%A2+Python+%E2%80%A2+TypeScript+%E2%80%A2+Solidity;Building+the+Future+of+Health-Tech+in+Africa;NYSC+Alumni+%F0%9F%87%B3%F0%9F%87%AC;and+I+Learn+by+Doing+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,7 +19,8 @@
 </p>
 
 <p align="center">
-  I'm a <strong>Software Engineer & Full Stack Developer</strong> with <strong>7+ years</strong> of experience delivering scalable, secure, and user-centric digital products across health-tech, fintech, blockchain, and government sectors.<br><br>
+  I'm a <strong>Software Engineer, AI Engineer & Full Stack Developer</strong> with <strong>7+ years</strong> of experience delivering scalable, intelligent, and user-centric digital products across AI, health-tech, fintech, blockchain, and government sectors.<br><br>
+  Currently building <strong>TheoEMR</strong> — an AI-powered Electronic Medical Records & TeleHealth platform at Xeventy2.0 Health.<br>
   Guided by the principle that <em>knowing the <code>"why"</code> is key to mastering the <code>"how"</code>.</em><br>
   I learn best by diving in headfirst — real projects, real problems, real solutions. 🚀
 </p>
@@ -31,7 +32,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Lagos%2C%20Nigeria-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Lagos Nigeria"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/NYSC%20Corps%20Member-008751?style=for-the-badge&logo=nigeria&logoColor=white" alt="NYSC"/>
+  <img src="https://img.shields.io/badge/NYSC%20Alumni-008751?style=for-the-badge&logo=nigeria&logoColor=white" alt="NYSC Alumni"/>
 </p>
 
 ---
@@ -56,11 +57,13 @@
 
 ### 🌟 What I'm Up To
 
-- 👨‍💻 **CTO & Lead Engineer** @ Xeventy2.0 Health Limited — building a privacy-first **EMR & TeleHealth** platform (Next.js · Django · PostgreSQL · Redis).
-- 🏛️ **PM & Lead Engineer** @ Lagos State Informal Space Management Authority — React frontend for state-level digital transformation.
-- 🎓 **ALX Software Engineering** Nanodegree graduate (Backend specialisation) & **NYSC** Corps Member.
+- 🧠 **Building TheoEMR** — an AI-powered Electronic Medical Records & TeleHealth system at [Xeventy2.0 Health](https://x2h.vercel.app) (Next.js · Django · PostgreSQL · Redis · LLM Integration).
+- 🤖 **Integrating AI** into health-tech: LLM-powered clinical notes, RAG for medical knowledge retrieval, and AI-driven patient interaction flows.
+- 🏛️ **Shipped [LASISMA](https://lasisma.com.ng)** — Lagos State Informal Space Management Authority's public-facing digital platform (React · Vite · TypeScript · Figma).
+- 🌍 **Engineered [Global Relocate](https://globalrelocate.com)** — a relocation platform with tax calculator & VPS-deployed Node.js/PostgreSQL/Prisma backend.
+- 🎓 **ALX Software Engineering** Nanodegree graduate & **NYSC Alumni** 🇳🇬.
 - ⛓️ Growing **Ticquette** — an NFT minting dApp built on Solidity, IPFS & Web3.js.
-- 🌱 Deepening expertise in **Rust**, **Go**, systems programming, and DeFi protocols.
+- 🌱 Deepening expertise in **AI/ML**, **Rust**, **Go**, DeFi, and systems programming.
 - 💼 Open to contract & freelance engagements — [Let's build something.](https://bit.ly/TemitayoDaisi-Oso/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -73,9 +76,10 @@
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| 🏥 **Xeventy2.0 Health** | Next.js · Django · PostgreSQL · Redis | Privacy-first Electronic Medical Records & TeleHealth platform |
+| 🧠 **[TheoEMR @ Xeventy2.0](https://x2h.vercel.app)** | Next.js · Django · PostgreSQL · Redis · LLM | AI-powered Electronic Medical Records & TeleHealth platform — being built |
+| 🏛️ **[LASISMA](https://lasisma.com.ng)** | React · Vite · TypeScript · Figma | Lagos State Informal Space Management Authority — public digital transformation portal |
+| 🌍 **[Global Relocate](https://globalrelocate.com)** | Node.js · PostgreSQL · Prisma | Relocation platform with tax calculator & VPS-deployed backend |
 | 🎫 **[Ticquette](https://github.com/theAstralProgrammer0/Ticquette)** | Solidity · IPFS · Express · Web3.js | NFT minting dApp with OpenSea listing & Pinata SDK |
-| 🌍 **Global Relocate** | Node.js · PostgreSQL · Prisma | Relocation platform with tax calculator & VPS-deployed backend |
 | ❤️ **[GiveAid Foundation](https://github.com/theAstralProgrammer0/giveaid)** | React · Node.js · PayStack | Full-stack donation platform with payment integration |
 | ✅ **[TodoAPI](https://github.com/theAstralProgrammer0/TodoAPI)** | ASP.NET Core · Docker | Containerised task manager REST API |
 | 🐚 **[Simple Shell](https://github.com/theAstralProgrammer0/simple_shell)** | C | Custom UNIX shell implementation from scratch |
@@ -113,6 +117,29 @@
 ---
 
 <details open>
+  <summary><h2>🤖 Artificial Intelligence</h2></summary>
+  <p align="center"><em>AI is the new internet — and I'm building on it.</em></p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Anthropic%20Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Prompt%20Engineering-DD2BC7?style=for-the-badge&logo=openai&logoColor=white"/>
+    <img src="https://img.shields.io/badge/RAG%20Systems-7723DF?style=for-the-badge&logo=databricks&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LLM%20Integration-0abfff?style=for-the-badge&logo=openai&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AI%20Automation-00C853?style=for-the-badge&logo=zapier&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vector%20Databases-FF6B35?style=for-the-badge&logo=pinecone&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AI%20in%20Health--Tech-E63946?style=for-the-badge&logo=heart&logoColor=white"/>
+  </p>
+  <p align="center">
+    <strong>TheoEMR</strong> — integrating AI into clinical workflows: LLM-powered note generation,<br/>
+    Retrieval-Augmented Generation for medical knowledge, and AI-assisted patient interaction.
+  </p>
+</details>
+
+---
+
+<details open>
   <summary><h2>⛓️ Blockchain & Web3</h2></summary>
   <p align="center">
     <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
@@ -134,6 +161,17 @@
 
 <details open>
   <summary><h2>🛠️ Skills & Tools</h2></summary>
+  <h4 align="center">Artificial Intelligence & ML</h4>
+  <p align="center">
+    <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/>&#160;
+    <img src="https://img.shields.io/badge/Anthropic%20Claude-D97706?style=flat-square&logo=anthropic&logoColor=white"/>&#160;
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>&#160;
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>&#160;
+    <img src="https://img.shields.io/badge/RAG-7723DF?style=flat-square&logo=databricks&logoColor=white"/>&#160;
+    <img src="https://img.shields.io/badge/Prompt%20Engineering-DD2BC7?style=flat-square&logo=openai&logoColor=white"/>&#160;
+    <img src="https://img.shields.io/badge/Vector%20DB-FF6B35?style=flat-square&logo=pinecone&logoColor=white"/>&#160;
+    <img src="https://img.shields.io/badge/AI%20Automation-00C853?style=flat-square&logo=zapier&logoColor=white"/>
+  </p>
   <h4 align="center">Languages</h4>
   <p align="center">
     <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/>&#160;&#160;
