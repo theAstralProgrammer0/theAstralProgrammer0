@@ -7,12 +7,11 @@ Hi, I'm theAstralProgrammer0. <img src="https://raw.githubusercontent.com/Martin
 </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-I’m a *Software Engineer and Full Stack Developer*, driven by curiosity and a love for code.  
+I'm a *Software Engineer and Full Stack Developer*, driven by curiosity and a love for code.  
 Guided by the principle that *Knowing* the ``"why"`` is key to *Mastering* the ``"how"``.  
 I learn best by diving in headfirst and experimenting with real world projects. 🚀
 
 ---
-
 
 ![](https://komarev.com/ghpvc/?username=theAstralProgrammer0&style=for-the-badge&color=blue&labelColor=000000)<a href="https://www.github.com/theAstralProgrammer0" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/theAstralProgrammer0?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://www.x.com/TyNaira4L" target="_blank" rel="noreferrer"><img
@@ -20,7 +19,7 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2349067096348)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### 🌟 What I’m Up To
+### 🌟 What I'm Up To
 - 👨‍💻 Currently working as CTO of Xeventy2.0.
 - 🔭 Building an Electronic Health Record and TeleHealth application.
 - 👯 Collaborating with Web3 devs to work on ``cool`` projects and progressive initiatives.
@@ -28,34 +27,14 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-# Contact 
+# Contact
 * [LinkedIn](https://www.linkedin.com/in/tdaisioso/)
 * [Twitter](https://twitter.com/TyNaira4L)
 * [Email](mailto:theastralprogrammer0@outlook.com)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theAstralProgrammer0&layout=compact)](https://github.com/theAstralProgrammer0/github-readme-stats)
-
-## QUESTION AND ANSWER WEBSITE 
-* [Stackoverflow](https://Stackoverflow.com/)
-* [GitHub](https://github.com/)
-* [Quora](https://quora.com/)
-* [Reddit](https://reddit.com/)
-* [Stack exchange](https://Stackexchange.com/)
-* [Code project](https://codeproject.com/)
-* [Programmers heaven](https://programmersheaven.com/)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theAstralProgrammer0&show_icons=true&theme=radical)
-
-<!--<h2 align="left">Support:</h2>
-<p><a href="https://www.buymeacoffee.com/theAstralProgrammer0"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-dark.png" height="50" width="210" alt="iamnaeto" /></a></p><br><br><br><br><br>
-
-![image](https://user-images.githubusercontent.com/105258746/188775779-6bbc07c8-df8d-4a80-839b-674ea51c5adc.png)
--->
-
-
-![---](https://github.com/GalexY727/GalexY727/blob/main/media/DripBanner.png)
+![---](https://raw.githubusercontent.com/GalexY727/GalexY727/main/media/DripBanner.png)
 
 ![Space](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2F2Y2Q1ZTNrMWtkdGpqZTlqejE5OHg5MWxwcWpldzM2cTI2OXdlZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btZ3T6y3JTmjg4w/200.webp)
 
@@ -79,25 +58,20 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
     <code><img width="4%" src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg"></code>
     <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/396px-Ruby_logo.svg.png?20101129171534"></code>
     <code><img width="4%" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png"></code>
-    <code><img width="4%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZO8cM5WJQ4ZIu2Qg0y7gs-IkTv46g_xAucg&s"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-    <code><img width="4%" src="https://www.bluej.org/objects-first/images/logos/bluej-128-embossed.png"></code>
     <code><img width="4%" src="https://cdn.iconscout.com/icon/free/png-256/discord-4408614-3649972.png"></code>
     <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png"></code>
-    <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Neos_VR_Logo.png"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
     <code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-    <code><img width="4%" src="https://external-preview.redd.it/6VNc_TiTaHCIqXF-_ZvwRRRkb1bYQy3t1nHxhNWBlt4.jpg?auto=webp&s=d9dfcad27fbd963b73d1d18be6db74543548ebf0"></code>
     <code><img width="4%" src="https://www.svgrepo.com/show/349342/docker.svg"></code>
     <code><img width="4%" src="https://curl.se/logo/curl-symbol.png"></code>
     <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1024px-Logo-ubuntu_cof-orange-hex.svg.png"></code>
     <code><img width="4%" src="https://www.svgrepo.com/show/373924/nginx.svg"></code>
-    <code><img width="4%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFDJLaUHfkk5JOqF2RTfK4m3RgHi3kM7Txw&s"></code>
-    <code><img width="4%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuYjUrLNXZ9t4eL97fjo93C9NBCFxixJGoBA&s"></code>
     <code><img width="4%" src="https://www.svgrepo.com/show/354230/puppet-icon.svg"></code>
     <code><img width="4%" src="https://logowik.com/content/uploads/images/solidity-programming-language881.logowik.com.webp"></code>
-    <code><img width="4%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUTc3wwVFk4RrsQHsAafyJYQOkKwrb7WSIiQ&s"></code>
+    <code><img width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rust_programming_language_black_logo.svg/1024px-Rust_programming_language_black_logo.svg.png"></code>
+    <code><img width="4%" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg"></code>
   </p>
 </details>
 
@@ -106,52 +80,73 @@ src="https://img.shields.io/twitter/follow/TyNaira4L?logo=twitter&style=for-the-
 <details open>
 <summary><h2>🔥 Stats</h2></summary>
   <p align="center">
-  
-  <!-- Spotify -->
-  <a href="https://open.spotify.com/user/31guvegpaf7zjw34j44eh2l2cw4i#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://spotify-api-temitayo-daisi-osos-projects.vercel.app/api/spotify?background_color=ffffff&border_color=000000"
-         alt="I love Spotify!"/>
+
+  <!-- Spotify Now Playing -->
+  <!-- To activate: visit https://spotify-github-profile.kittinanx.com/ and connect your Spotify account -->
+  <a href="https://open.spotify.com/user/31guvegpaf7zjw34j44eh2l2cw4i" target="_blank" rel="noopener noreferrer">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31guvegpaf7zjw34j44eh2l2cw4i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"
+         alt="Now Playing on Spotify" />
   </a>
 
   <br>
 
-  <!-- Github Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=theAstralProgrammer0&show_icons=true&theme=tokyonight&border_color=DD2BC7"
-         width="49%" alt="My GitHub Stats were once here..." />
-  </a>
-  
   <!-- Github Streak -->
-  <a href="https://git.io/streak-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
+  <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
     <img src="https://streak-stats.demolab.com?user=theAstralProgrammer0&theme=tokyonight&mode=daily&border=DD2BC7"
-         width="49%" alt="My GitHub Streak was once here..." />
+         width="49%" alt="GitHub Streak" />
   </a>
-  <!-- Most Used Langs -->
+
+  <!-- Profile Stats Card -->
+  <a href="https://github.com/theAstralProgrammer0" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theAstralProgrammer0&theme=tokyonight"
+         width="49%" alt="GitHub Stats" />
+  </a>
 
   <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theAstralProgrammer0&layout=donut&theme=tokyonight&border_color=DD2BC7"
-         width="33%" alt="Favorite Languages" />
+
+  <!-- Most Commit Language -->
+  <a href="https://github.com/theAstralProgrammer0" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theAstralProgrammer0&theme=tokyonight"
+         width="33%" alt="Most Used Languages by Commit" />
   </a>
+
+  <!-- Repos Per Language -->
+  <a href="https://github.com/theAstralProgrammer0" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theAstralProgrammer0&theme=tokyonight"
+         width="33%" alt="Repos Per Language" />
+  </a>
+
+  <!-- Productive Time -->
+  <a href="https://github.com/theAstralProgrammer0" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=theAstralProgrammer0&theme=tokyonight&utcOffset=1"
+         width="33%" alt="Most Productive Time of Day" />
+  </a>
+
   <br>
 
-  <!--Achievements-->
-  <a href="https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only">
-    <img src="https://github-profile-trophy.vercel.app/?username=theAstralProgrammer0&theme=tokyonight&column=-1&title=Commits,Repositories,Issues,PullRequest,Followers,Stars&no-frame=true&margin-w=5"
-         alt="GitHub achievement showcase was once here..." />
+  <!-- Profile Details — Contributions Over Time -->
+  <a href="https://github.com/theAstralProgrammer0" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theAstralProgrammer0&theme=tokyonight"
+         width="100%" alt="GitHub Profile Summary" />
   </a>
+
+  <br>
+
+  <!-- Activity Graph -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=theAstralProgrammer0&theme=tokyo-night&area=true&hide_border=false&border_color=DD2BC7&area_color=DD2BC7"
+         width="100%" alt="GitHub Activity Graph" />
+  </a>
+
+  <br>
 
   <!-- Commit Snake! -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theAstralProgrammer0/theAstralProgrammer0/media/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theAstralProgrammer0/theAstralProgrammer0/media/github-contribution-grid-snake.svg" />
+    <img alt="Check out my commit history!" src="https://raw.githubusercontent.com/theAstralProgrammer0/theAstralProgrammer0/media/github-contribution-grid-snake.svg" />
+  </picture>
 
-  <a href="https://raw.githubusercontent.com/theAstralProgrammer0/theAstralProgrammer0/media/github-contribution-grid-snake.svg#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/theAstralProgrammer0/theAstralProgrammer0/media/github-contribution-grid-snake-dark.svg"
-       alt="Check out my commit history!" />
-  </a>
-
-  <a href="https://raw.githubusercontent.com/theAstralProgrammer0/theAstralProgrammer0/media/github-contribution-grid-snake.svg#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/theAstralProgrammer0/theAstralProgrammer0/media/github-contribution-grid-snake.svg"
-         alt="Check out my commit history!" />
-  </a>
 </p>
 </details>
 
