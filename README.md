@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <a href="https://bit.ly/TemitayoDaisi-Oso/">
+  <a href="https://theastralprogrammer0.vercel.app/">
     <img src="https://img.shields.io/badge/Available%20for%20Work-%2300C853?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Available for Work"/>
   </a>
   &nbsp;
