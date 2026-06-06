@@ -1,0 +1,56 @@
+name: Daily Activity
+
+# Runs 3× per day in West Africa Time (UTC+1):
+#   08:00 WAT  →  07:00 UTC
+#   14:00 WAT  →  13:00 UTC
+#   21:00 WAT  →  20:00 UTC
+on:
+  schedule:
+    - cron: "0 7 * * *"
+    - cron: "0 13 * * *"
+    - cron: "0 20 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Write activity log and commit
+        run: |
+          DATE=$(date -u +"%Y-%m-%d")
+          TIME=$(date -u +"%H:%M UTC")
+          HOUR=$(date -u +"%H")
+          FILE=".github/activity/${DATE}.md"
+
+          if   [ "$HOUR" = "07" ]; then SESSION="🌅 Morning"
+          elif [ "$HOUR" = "13" ]; then SESSION="⚡ Afternoon"
+          else                          SESSION="🌙 Evening"
+          fi
+
+          mkdir -p .github/activity
+
+          # Create the day's file on first run
+          if [ ! -f "$FILE" ]; then
+            printf "# 📅 %s\n\n" "$DATE" > "$FILE"
+          fi
+
+          printf -- "- %s session — %s\n" "$SESSION" "$TIME" >> "$FILE"
+
+          git config user.name  "theAstralProgrammer0"
+          git config user.email "tdaisioso@gmail.com"
+          git add "$FILE"
+
+          # Only commit if there is actually something staged
+          git diff --cached --quiet && echo "Nothing to commit" && exit 0
+
+          git pull --rebase origin master
+          git commit -m "chore: ${SESSION} activity — ${DATE}"
+          git push
