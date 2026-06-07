@@ -20,7 +20,7 @@
 
 <p align="center">
   I'm a <strong>Software Engineer, AI Engineer & Full Stack Developer</strong> with <strong>7+ years</strong> of experience delivering scalable, intelligent, and user-centric digital products across AI, health-tech, fintech, blockchain, and government sectors.<br><br>
-  Currently building <strong>TheoEMR</strong> — an AI-powered Electronic Medical Records & TeleHealth platform.<br>
+  Currently building <strong>TheoEMR</strong> for Theo Hospital & serving as CTO at <a href="https://x2h.vercel.app"><strong>Xeventy2.0 Health</strong></a> — two distinct health-tech engagements.<br>
   Guided by the principle that <em>knowing the <code>"why"</code> is key to mastering the <code>"how"</code>.</em><br>
   I learn best by diving in headfirst — real projects, real problems, real solutions. 🚀
 </p>
@@ -58,7 +58,8 @@
 ### 🌟 What I'm Up To
 
 - 🏆 Founding **[FanForge](https://github.com/theAstralProgrammer0/fanforge)** at the [Aomi Labs](https://x.com/aomi_labs) hackathon — on-chain fan economy for music creators on [Base](https://x.com/base) × [Zora](https://x.com/zora), with [@DecentralDev\_](https://x.com/DecentralDev_).
-- 🧠 Building **[TheoEMR](https://x2h.vercel.app)** — AI-powered EMR & TeleHealth: LLM clinical notes, RAG knowledge retrieval, AI patient flows.
+- 🧠 Building **TheoEMR** for Theo Hospital — AI-powered EMR & TeleHealth: LLM clinical notes, RAG knowledge retrieval, AI patient flows.
+- 🏥 CTO at **[Xeventy2.0 Health](https://x2h.vercel.app)** — shipped their landing page & architecting the Xeventy2.0 EMR platform.
 - 🏛️ Shipped **[LASISMA](https://lasisma.com.ng)** — Lagos State's informal space management portal.
 - 🌍 Engineered **[Global Relocate](https://globalrelocate.com)** — relocation platform with multi-country tax calculator.
 - 🌱 Deepening: **AI/ML** · **Rust** · **Go** · DeFi · systems programming.
@@ -76,7 +77,8 @@
 | Project | Stack | Description |
 |---------|-------|-------------|
 | 🏆 **[FanForge](https://github.com/theAstralProgrammer0/fanforge)** | Rust · [Base](https://github.com/base) · [Zora](https://github.com/ourzora) · [Aomi SDK](https://github.com/aomi-labs) | On-chain fan economy for music creators — [Aomi Labs](https://x.com/aomi_labs) hackathon |
-| 🧠 **[TheoEMR](https://x2h.vercel.app)** | Next.js · Django · PostgreSQL · Redis · LLM | AI-powered Electronic Medical Records & TeleHealth platform |
+| 🧠 **TheoEMR** *(Theo Hospital)* | Django · PostgreSQL · Redis · LLM · RAG | AI-powered EMR & TeleHealth system — active build |
+| 🏥 **[Xeventy2.0 Health](https://x2h.vercel.app)** | Next.js · React · TypeScript · Tailwind | Health-tech startup — CTO, landing page shipped, EMR in architecture |
 | 🏛️ **[LASISMA](https://lasisma.com.ng)** | React · Vite · TypeScript · Figma | Lagos State Informal Space Management Authority — public digital transformation portal |
 | 🌍 **[Global Relocate](https://globalrelocate.com)** | Node.js · PostgreSQL · Prisma | Relocation platform with tax calculator & VPS-deployed backend |
 | 🎫 **[Ticquette](https://github.com/theAstralProgrammer0/Ticquette)** | Solidity · IPFS · Express · Web3.js | NFT minting dApp with OpenSea listing & Pinata SDK |
